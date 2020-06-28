@@ -12,7 +12,7 @@
 ***
 
 ***
-#### project url: **'https://davidhubber.github.io/ci-css_transitions-keyframes_and_animation_properties/'**
+#### project url: **'https://codeinstitute-davidhubber.github.io/ci-css_transitions-keyframes_and_animation_properties/'**
 ***
 title: **'Code Institiute - CSS Transitions - Keyframes and Animation Properties'**
 
